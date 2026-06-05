@@ -1,3 +1,5 @@
+#LOLZ
+
 name: Build Windows
 
 on: [push, pull_request]
